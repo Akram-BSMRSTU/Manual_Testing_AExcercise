@@ -1,1 +1,1 @@
-# Manual_Testing_AExcercisee
+# Manual_Testing_AExcercise
